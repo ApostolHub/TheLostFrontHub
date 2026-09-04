@@ -1,4 +1,4 @@
-local ActiveKey = "UPDATED", "TEST"
+local ActiveKey = "UPDATED"
 
 local OldKeys = {
     "TEST",
