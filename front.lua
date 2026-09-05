@@ -14,7 +14,7 @@ local SelectedLanguage = "RU"
 
 local Translations = {
     RU = {
-        KeyTitle = "⚔️ ApostolHub — Авторизация",
+        KeyTitle = "ApostolHub — Авторизация",
         KeyPlaceholder = "Введите ваш ключ...",
         SubmitKey = "Активировать",
         KeySuccess = "Ключ принят! Загрузка...",
