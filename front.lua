@@ -1,6 +1,7 @@
 local ActiveKey = "UPDATED"
 
 local OldKeys = {
+    "RELEASE",
     "TEST",
     "TEST_KEY_123",
     "OLD_KEY_DEMO",
