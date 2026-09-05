@@ -3,9 +3,9 @@ local ActiveKey = "UPDATED"
 local OldKeys = {
     "RELEASE",
     "TEST",
-    "TEST_KEY_123",
-    "OLD_KEY_DEMO",
-    "VIP_KEY_1"
+    "APOSTOLHUB",
+    "FRONT",
+    "APOSTOLLUA"
 }
 
 local TelegramContact = "@apostoltdm"
